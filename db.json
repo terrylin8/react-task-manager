@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Kaplan MCAT review",
+      "deadline": "July 26th",
+      "description": "30/60 chapters done",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "AI4BD tasks",
+      "deadline": "July 20th",
+      "description": "AI tools for GI cancer clinical trial enrollment & Research for alternative CE agencies",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Finishing React project For med lab",
+      "deadline": "July 22th",
+      "description": "Thats this project!",
+      "reminder": true
+    },
+    {
+      "text": "Heyo",
+      "deadline": "nope",
+      "description": "lalala",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}

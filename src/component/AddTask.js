@@ -41,13 +41,16 @@ const AddTask = ({onAdd}) => {
                 />
             </div>
             <div className='form-control form-control-check'>
-                <label>Set as Important?</label>
+                
+                <p>Set as Important? <br/>
+                (You can also double click on task later)</p>
                 <input type='checkbox'
                     value={reminder} 
                     checked={reminder}
                     onChange={(e) => setReminder(e.currentTarget.checked)}
                 />
             </div>
+
             <input type='submit'
                 className='btn btn-block'
                 value='Save Task'

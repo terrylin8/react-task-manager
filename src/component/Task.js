@@ -7,7 +7,7 @@ const Task = ({ task, onDelete, onToggle, onEdit }) => {
     const [showEditor, setShowEditor] = useState(false)
     return (
         <div className={`task ${task.reminder ? 'reminder' : ''}`}
-            onMouseUp={() => onToggle(task.id)}>
+            onDoubleClick={() => onToggle(task.id)}>
             <h3>
                 {task.text}
                 

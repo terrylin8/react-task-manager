@@ -6,4 +6,5 @@ This Task Manager is designed to manage a list of tasks with deadlines and descr
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Created with instruction from React JS Crash Course 2019 by Traversy Media.
+https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia&loop=0
 
